@@ -7,4 +7,11 @@ Earthquakes may not happen frequently, however their consequences can be catastr
 ## 2. Data Understanding
 
 
+## Next steps
+- Comprehensive analysis of every feature's impact
+
+
+
+
+
 
