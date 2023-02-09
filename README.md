@@ -28,7 +28,7 @@ The train dataset has 260,601 rows and the test dataset has 86,868 rows. Both ha
 ## 5. Evaluation
 We are predicting the level of damage from 1 to 3. The level of damage is an ordinal variable meaning that ordering is important. This can be viewed as a classification or an ordinal regression problem. To measure the performance of our algorithms, we'll use the F1 score which balances the precision and recall of a classifier. 
 
-We achieved a result = 0.7248 (Current Rank 969/6031)
+We achieved a micro-averaged F1 score = 0.7248 (Current Rank 969/6031)
 
 ## Next steps
 - Comprehensive analysis of every feature's impact
