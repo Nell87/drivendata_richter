@@ -9,9 +9,9 @@ Earthquakes may not happen frequently, however their consequences can be catastr
 
 ## Next steps
 - Comprehensive analysis of every feature's impact
-
-
-
+- Drop out highly correlated or not relevant features
+- Create new features from existing features
+- Test more machine learning models
 
 
 
